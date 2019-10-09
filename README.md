@@ -5,6 +5,6 @@ Bahasa yang digunakan untuk menuliskan rules tersebut adalah CLIPS.
 # Kebutuhan Untuk Menjalankan Program
 1. Menginstall CLIPS versi apa pun
 # Contoh Perintah Untuk Menjalankan Program
-CLIPS > (load "DrugRules.clp")
-CLIPS > (assert(asthma))
+CLIPS > (load "DrugRules.clp") <br />
+CLIPS > (assert(asthma)) <br />
 CLIPS > (run)
